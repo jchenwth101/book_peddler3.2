@@ -1,0 +1,39 @@
+.highlighted {
+    background-color: #a5a5a5;
+    font-weight: bold;
+}
+
+.highlighted a {
+    color: #fff !important;
+}
+
+.nav-link {
+    color: #000 !important;
+}
+
+.bg-light {
+    background-color: #d7d9db !important;
+}
+
+.user-area {
+    line-height: 35px;
+}
+
+#request-count {
+    border: 1px solid #ddd;
+    padding: 7px;
+    background-color: #fff;
+    border-radius: 50px;
+    font-size: 14px;
+    color: #000;
+}
+
+.book-wrapper {
+    min-height: 700px;
+}
+
+.search-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+}
